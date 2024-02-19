@@ -24,7 +24,7 @@ GROUP_CHAT_ID   =   1   # Usually, a "-100" is added in front of the ID.
                         # If there are any issues, set DEBUG = True and launch /CreateLink in the group.
                         # This will print the correct ID on the screen.
 DEV_USER_ID     =   1
-BOT_TOKEN       =   "token"
+BOT_TOKEN       =   "7057770311:AAFdkw4rF3aY9_D5U1Mcqk3hE8dYh8Kw32Y"
 
 DEBUG = False
 
