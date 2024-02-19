@@ -20,10 +20,10 @@ GROUP_CHAT_ID: id of the group chat (for which invitation links are needed)
 BOT_TOKEN: unique token provided by @fatherbot
 DEV_USER_ID: administrator's ID who will receive updates privately.
 """
-GROUP_CHAT_ID   =   1   # Usually, a "-100" is added in front of the ID. 
+GROUP_CHAT_ID   =   -1002100775932   # Usually, a "-100" is added in front of the ID. 
                         # If there are any issues, set DEBUG = True and launch /CreateLink in the group.
                         # This will print the correct ID on the screen.
-DEV_USER_ID     =   1
+DEV_USER_ID     =   6127218529
 BOT_TOKEN       =   "7057770311:AAFdkw4rF3aY9_D5U1Mcqk3hE8dYh8Kw32Y"
 
 DEBUG = False
